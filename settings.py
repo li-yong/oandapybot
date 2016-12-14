@@ -1,4 +1,4 @@
-# Account settings
+#   Account settings
 ACCOUNT_ID = "0070070"
 ACCESS_TOKEN = "166acab665f0bd72c33aee2d02037829-00700707adc454f3a0e075cf0351aa8c"
 ENVIRONMENT = "practice" # change this to "live" for production
